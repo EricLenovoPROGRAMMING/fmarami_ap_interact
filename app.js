@@ -128,7 +128,7 @@ const WORD_BANK = [
    1: "Incest"
   },
   correct: 2,
-  quote: "Ayon sa GABRIELA, ito ang ilan sa \"Seven Deadly Sins Against Women\" na binanggsit dito maliban sa isa."
+  quote: "Ayon sa GABRIELA, ito ang ilan sa \"Seven Deadly Sins Against Women\" na binanggit dito maliban sa isa."
  },
  {
   
